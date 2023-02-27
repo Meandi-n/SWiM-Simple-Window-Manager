@@ -1,0 +1,16 @@
+Log file created at: 2023/02/27 18:28:04
+Running on machine: testbench-VirtualBox
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20230227 18:28:04.068796 470568 main.cpp:22] main.cpp (22): Initialised Window Manager, progressing to run()
+I20230227 18:28:04.069541 470568 window_manager.cpp:69] Inside run() function
+W20230227 18:28:04.081780 470568 window_manager.cpp:209] Ignored event
+W20230227 18:28:07.079010 470568 window_manager.cpp:209] Ignored event
+I20230227 18:28:10.271421 470568 window_manager.cpp:493] Resize [0] to 10x17
+I20230227 18:28:10.271458 470568 window_manager.cpp:498] Resize 8388620 to 10x17
+I20230227 18:28:10.277446 470568 window_manager.cpp:493] Resize [0] to 484x316
+I20230227 18:28:10.277536 470568 window_manager.cpp:498] Resize 8388620 to 484x316
+W20230227 18:28:10.374162 470568 window_manager.cpp:209] Ignored event
+W20230227 18:28:13.409480 470568 window_manager.cpp:209] Ignored event
+W20230227 18:28:16.359438 470568 window_manager.cpp:209] Ignored event
+W20230227 18:28:24.467684 470568 window_manager.cpp:209] Ignored event
